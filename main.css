@@ -124,4 +124,12 @@
   .right_content_des {
     width: 90%;
   }
+  .right_content_image {
+    display: flex;
+    height: 82px;
+  }
+  .right_content_image img {
+    margin: auto;
+    height: 50px;
+  }
 }
